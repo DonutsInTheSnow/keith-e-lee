@@ -236,6 +236,7 @@ Banner
 }
 
 .mobile-nav a {
+  font-size: 25px;
   display: block;
   position: relative;
   color: #e3f0fc;
