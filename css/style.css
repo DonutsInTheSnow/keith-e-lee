@@ -37,7 +37,7 @@ h2.confederate {
 Banner
 ************************************/
 .banner {
-	background: url('../img/yee_haw.jpg') no-repeat center top;
+	background: url('../img/yee_haw.webp') no-repeat center top;
     background-size: cover;
 	min-height: 580px;
     position: relative;
@@ -462,7 +462,7 @@ Art
 }
 
 #art {
-    background-image: url("../img/cbgbs.jpg");   
+    background-image: url("../img/cbgbs.webp");   
 }
 #art .header-section {
     background-color: #3d3d3d;
@@ -478,7 +478,7 @@ Art
 Word Table
 ************************************/
 #word { 
-    background-image: url("../img/seventies-bg.jpg");
+    background-image: url("../img/seventies-bg.webp");
 }
 #word p {
     background: rgba(99, 108, 98, 0.8);
